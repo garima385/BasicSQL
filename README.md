@@ -1,1 +1,1 @@
-# BasicSQL
+SQL queries
